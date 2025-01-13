@@ -1,16 +1,8 @@
 # cinetopia
 
-A new Flutter project.
+- Este projeto foi desenvolvido durante um treinamento em Flutter no qual participei.
+- O projeto consiste em um aplicativo que se comunica com a API do (TMDB), listando as informações dos filmes cadastrados nesta API.
+- O projeto está compilando, porém apresenta alguns bugs que ainda estou verificando e tentando corrigir.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
